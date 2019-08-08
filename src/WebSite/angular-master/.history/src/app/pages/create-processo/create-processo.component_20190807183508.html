@@ -1,0 +1,40 @@
+<ng-template #content let-c="close" let-d="dismiss">
+    <div class="modal-header">
+      <h4 *ngIf="!isEdit" class="modal-title" id="modal-basic-title">Criar Processo</h4>
+      <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+<form ngNativeValidate (ngSubmit)="save()" class="modal-body">
+    <!-- criando o formulario -->
+    <div class="form-content">
+      <div class="form-group">
+            <label>Numero do Processo</label>
+        <input type="text"  required class="form-control input-underline input-lg" [(ngModel)]="processo.numeroProcesso" placeholder="Numero do Processo" name="numero" >
+      </div>
+      <div class="form-group">
+            <label>Data Inicio do Processo</label>
+        <input type="date"  required class="form-control input-underline input-lg" [(ngModel)]="processo.dataInicio"  name="data" >
+      </div>
+      <div class="form-group">
+         <label>EStado</label>
+        <input type="text" required class="form-control input-underline input-lg" [(ngModel)]="processo.estado"  placeholder="Estado" name="Estado">
+      </div>
+
+      <div class="form-group">
+         <label>Valor</label>
+          <input type="number" required class="form-control input-underline input-lg" [(ngModel)]="processo.valor"  name="Valor">
+      </div>
+      <div class="form-group">
+            <label>Ativo</label>
+        <input type="number" required class="form-control input-underline input-lg" [(ngModel)]="processo.isAtivo"  name="Ativo">
+    </div>
+  </div>
+    <!-- fim de criar o formulario -->
+    <div class="modal-footer">
+      <button type="button submit" class="btn btn-md btn-primary">Salvar</button>
+    </div>
+  </form>
+</ng-template>
+      
+<button  class="btn btn-md btn-primary  fa fa-plus-square" (click)="open(content)"></button>

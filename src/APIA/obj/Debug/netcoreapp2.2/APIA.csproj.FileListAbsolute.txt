@@ -1,0 +1,11 @@
+C:\Users\macha\source\repos\Advocacia\src\APIA\obj\Debug\netcoreapp2.2\APIA.csprojAssemblyReference.cache
+C:\Users\macha\source\repos\Advocacia\src\APIA\obj\Debug\netcoreapp2.2\APIA.csproj.CoreCompileInputs.cache
+C:\Users\macha\source\repos\Advocacia\src\APIA\obj\Debug\netcoreapp2.2\APIA.AssemblyInfoInputs.cache
+C:\Users\macha\source\repos\Advocacia\src\APIA\obj\Debug\netcoreapp2.2\APIA.AssemblyInfo.cs
+C:\Users\macha\source\repos\Advocacia\src\APIA\bin\Debug\netcoreapp2.2\APIA.deps.json
+C:\Users\macha\source\repos\Advocacia\src\APIA\bin\Debug\netcoreapp2.2\APIA.runtimeconfig.json
+C:\Users\macha\source\repos\Advocacia\src\APIA\bin\Debug\netcoreapp2.2\APIA.runtimeconfig.dev.json
+C:\Users\macha\source\repos\Advocacia\src\APIA\bin\Debug\netcoreapp2.2\APIA.dll
+C:\Users\macha\source\repos\Advocacia\src\APIA\bin\Debug\netcoreapp2.2\APIA.pdb
+C:\Users\macha\source\repos\Advocacia\src\APIA\obj\Debug\netcoreapp2.2\APIA.dll
+C:\Users\macha\source\repos\Advocacia\src\APIA\obj\Debug\netcoreapp2.2\APIA.pdb

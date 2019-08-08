@@ -1,0 +1,6 @@
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp3.0\APIAlturas.csprojAssemblyReference.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp3.0\APIAlturas.csproj.CoreCompileInputs.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp3.0\APIAlturas.RazorAssemblyInfo.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp3.0\APIAlturas.RazorAssemblyInfo.cs
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp3.0\APIAlturas.AssemblyInfoInputs.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp3.0\APIAlturas.AssemblyInfo.cs

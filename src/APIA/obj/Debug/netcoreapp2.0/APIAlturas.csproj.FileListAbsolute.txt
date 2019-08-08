@@ -1,0 +1,11 @@
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.deps.json
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.runtimeconfig.json
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.runtimeconfig.dev.json
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.dll
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.0\APIAlturas.pdb
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.csprojAssemblyReference.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.csproj.CoreCompileInputs.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.AssemblyInfoInputs.cache
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.AssemblyInfo.cs
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.dll
+C:\Users\macha\Source\Repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.0\APIAlturas.pdb
